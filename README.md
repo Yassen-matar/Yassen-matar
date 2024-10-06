@@ -26,9 +26,10 @@
 ---
 
 ### 🛠️ **Technologies & Tools**
-- **Languages**: Dart, JavaScript
+- **Languages**: Dart, C#
 - **Framework**: Flutter, Firebase
-- **State Management**: Bloc, Provider, Riverpod
+- **State Management**: Bloc, Provider, Riverpod, Getx
+- **skills**: PushNotifications, clean Architecture, Clean Code, SqlFlite, Apis,... 
 - **Version Control**: Git & GitHub
 - **Other Tools**: Postman, RESTful APIs, CI/CD
 
