@@ -43,7 +43,7 @@
 ---
 
 ### 📫 **Get In Touch**
-- 📧 Email: [Gmail](https://www.gmail.com/yaseenmattar55@gmail.com)
+- 📧 Email: yaseenmattar55@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yassen-matar-aa1199258/)
 - 🐙 [GitHub](https://github.com/Yassen-matar)
 
